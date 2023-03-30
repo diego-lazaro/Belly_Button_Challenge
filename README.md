@@ -12,6 +12,6 @@ Ultizied a D3 library to read a JSON file from a URL to create a horizontal bar 
 ![image](https://user-images.githubusercontent.com/115186079/228951081-f0dab947-f800-4dd1-ba9d-b06a0fb80d91.png)
 
 
-## Display Table Chart for Demographic Table
+## Demographic Information Table
 
 ![image](https://user-images.githubusercontent.com/115186079/228951322-d556efda-9c0a-4e76-9e58-3b52fcb1e037.png)
