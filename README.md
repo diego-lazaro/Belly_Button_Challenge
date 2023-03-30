@@ -4,7 +4,7 @@ Ultizied a D3 library to read a JSON file from a URL to create a horizontal bar 
 
 ## Horizontal Bar Chart
 
-![image](https://user-images.githubusercontent.com/115186079/228950949-9bdcc17a-c322-44ea-a65c-7086d4767baf.png)
+![image](https://user-images.githubusercontent.com/115186079/228951426-fddae2b4-8784-42f8-867a-9ca736e00d57.png)
 
 
 ## Bubble Chart
